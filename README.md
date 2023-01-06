@@ -1,1 +1,3 @@
-# git_training_repo
+# Introduction
+
+This is the introduction.
